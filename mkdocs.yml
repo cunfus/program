@@ -100,6 +100,7 @@ markdown_extensions:
 nav:
   - 首页: 
     - index.md
+    - tech-view.md
 
   - 计算机程序的构造与解释:
       - sicp/index.md
@@ -132,6 +133,10 @@ nav:
       - codelang/go/5.md
       - codelang/go/6.md
       - codelang/go/7.md
+    - JS:
+      - codelang/js/index.md
+    - C#:
+      - codelang/c#/index.md
     - C:
       - codelang/c/index.md
       - codelang/c/1.md
@@ -145,19 +150,25 @@ nav:
         - codelang/c/stl/cpy.md
       - codelang/c/omp.md
 
-  - 算法:
-    - algo/index.md
+  - 实践应用:
+    - doit/index.md
+    - MonoGame:
+      - doit/monogame/index.md
+    - 组件:
+      - doit/lib/libevent.md
 
-
-  - 工程分析:
-    - proj/index.md
+  - 产品设计:
+    - product/index.md
     - UML:
-      - proj/plantuml/index.md
-      - proj/plantuml/sequence.md
-    - proj/libevent.md
+      - product/plantuml/index.md
+      - product/plantuml/sequence.md
 
   - 领域知识:
     - domain/index.md
+    - 像素画:
+      - domain/pixelart/index.md
+    - 神经网络:
+      - domain/neuralnet/index.md
     - 网络:
       - domain/net/index.md
     - 密码学:
@@ -189,3 +200,5 @@ nav:
     - tool/gns3.md
     - tool/veracrypt.md
 
+  - 算法:
+    - algo/index.md

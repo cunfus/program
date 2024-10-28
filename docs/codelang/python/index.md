@@ -7,7 +7,8 @@
 - 闭包
 - 垃圾回收
 
-## 参考
+## 链接
 
-- https://liaoxuefeng.com/books/python/introduction/index.html
-- https://docs.python.org/zh-cn/3.10/tutorial/index.html
+- 官方教程： https://docs.python.org/3/tutorial
+- 可视化栈帧： https://pythontutor.com
+- 简练教程：https://liaoxuefeng.com/books/python/introduction/index.html
