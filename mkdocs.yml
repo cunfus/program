@@ -110,6 +110,9 @@ nav:
 
   - 编程语言:
     - codelang/index.md
+    - 语言特性:
+      - codelang/lang-feat/index.md
+      - codelang/lang-feat/oo.md
     - 设计模式:
       - codelang/patterns/index.md
     - Python:
@@ -149,6 +152,9 @@ nav:
         - codelang/c/stl/index.md
         - codelang/c/stl/cpy.md
       - codelang/c/omp.md
+
+
+
 
   - 实践应用:
     - doit/index.md
