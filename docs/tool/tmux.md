@@ -10,8 +10,6 @@
 !!! tip "关于 Ctrl 键位"
     Windows 下可以修改注册表，交换 CapsLk 和 Ctrl。
 
-    Manjaro 在 setting 里配置，交换 CapsLk 和 Ctrl。
-
     这样一来，<C-a\> 将是两个在物理位置上连续的按键。
 
 

@@ -1,132 +1,78 @@
-# refer from https://squidfunk.github.io/mkdocs-material/
 site_name: 代码札记
 site_description: 札记 
 site_author: cunfus
-site_url: https://cunfus.github.io/code
+site_url: https://cunfus.github.io/Coding-Journal/
 
-# repo_name: 'cunfus/memorandum'
-# repo_url: https://github.com/cunfus/memorandum
-
-# copyright: Copyright &copy; 2024 <a href="https://github.com/cunfus" target="_blank" rel="noopener">cunfus</a>
-
-
-
+# refer https://mkdoc-material.llango.com/customization/
+#       https://github.com/squidfunk/mkdocs-material/tree/master/material/templates/partials
 theme:
   name: material
   language: zh
   custom_dir: overrides
-  # logo:  asserts/images/logo.png
   favicon: asserts/images/code-solid.svg
   palette:
+    - accent: deep orange
     - scheme: default
-      toggle:
-        icon: material/brightness-7
-        name: eye-protection mode
 
   font:  
     text: 'LXGW WenKai Screen'
     code: 'Fira Code' 
   features:
-    - navigation.instant     # 即时加载
-    - navigation.tracking    # 锚点跟踪
-    - navigation.indexes     # 次级索引页
-    - navigation.tabs        # 导航选项卡
-    - navigation.top         # 一键返回顶部
-    - navigation.footer      # 上下页链接
-    ### 代码
+    - navigation.instant
+    - navigation.tracking
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.top
     - content.code.copy
     - content.code.annotate
 
 extra_css:
-  # - https://cdn.staticfile.org/lxgw-wenkai-webfont/1.6.0/style.css
-  # - https://cdn.staticfile.org/lxgw-wenkai-screen-webfont/1.6.0/style.css
   - https://cdn.jsdelivr.net/npm/lxgw-wenkai-screen-webfont@1.7.0/style.css
   - stylesheets/extra.css
-
 extra_javascript:
   - javascripts/english.js
 
-# extra:
-#   social:
-#     - icon: fontawesome/brands/github
-#       link: https://github.com/cunfus
-#     - icon: fontawesome/solid/envelope
-#       link: mailto:<cunfuss@outlook.com>
-
 markdown_extensions:
   ### refer from https://shafish.cn/blog/mkdocs
-  ### 术语
   - abbr            
-  - pymdownx.snippets
-  ### 提示
-  - admonition           
-  - pymdownx.details     
-  - pymdownx.superfences 
-  ### 按钮
-  - attr_list
-  ### 代码块
-  - pymdownx.highlight:  
-      anchor_linenums: true
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
-  - pymdownx.superfences
-  ### 内容标签栏
-  - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true
-  ### 表格
   - tables
-  ### 格式化
+  - admonition           
+  - attr_list
+  - def_list
+  - md_in_html
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.snippets
+  - pymdownx.details
   - pymdownx.critic
   - pymdownx.caret
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
-  ###图标
+  - pymdownx.highlight:  
+      anchor_linenums: true
+  - pymdownx.tabbed:
+      alternate_style: true
   - pymdownx.emoji:
-      #emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_index: !!python/name:material.extensions.emoji.twemoji
-      #emoji_generator: !!python/name:materialx.emoji.to_svg
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-  ### 图片
-  - attr_list
-  - md_in_html
-  ### 列表
-  - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
 
-### 内容列表
+
 nav:
   - 首页: 
     - index.md
     - tech-view.md
 
-  - 计算机程序的构造与解释:
-      - sicp/index.md
-      - sicp/sicp-1.1.md
-      - sicp/sicp-1.2.md
-
-
   - 编程语言:
     - codelang/index.md
-    - 语言特性:
-      - codelang/lang-feat/index.md
-      - codelang/lang-feat/oo.md
-    - 设计模式:
-      - codelang/patterns/index.md
-    - Python:
+    - Lisp:
+      - codelang/sicp/index.md
+      - codelang/sicp/sicp-1.1.md
+      - codelang/sicp/sicp-1.2.md
+    - Python: 
       - codelang/python/index.md
-      - codelang/python/1.md
-      - codelang/python/2.md
-      - codelang/python/3.md
-      - codelang/python/4.md
-      - codelang/python/5.md
-      - codelang/python/6.md
-      - codelang/python/7.md
-      - codelang/python/8.md
-      - codelang/python/9.md
-      - codelang/python/10.md
     - Go:
       - codelang/go/index.md
       - codelang/go/1.md
@@ -152,59 +98,12 @@ nav:
         - codelang/c/stl/index.md
         - codelang/c/stl/cpy.md
       - codelang/c/omp.md
-
-
-
-
-  - 实践应用:
-    - doit/index.md
-    - MonoGame:
-      - doit/monogame/index.md
-    - 组件:
-      - doit/lib/libevent.md
-
-  - 产品设计:
-    - product/index.md
-    - UML:
-      - product/plantuml/index.md
-      - product/plantuml/sequence.md
-
-  - 领域知识:
-    - domain/index.md
-    - 像素画:
-      - domain/pixelart/index.md
-    - 神经网络:
-      - domain/neuralnet/index.md
-    - 网络:
-      - domain/net/index.md
-    - 密码学:
-      - domain/enc/index.md
-      - domain/enc/1.md
-      - domain/enc/2.md
-    - RFC 文档:
-      - domain/rfc/index.md
-      # - domain/rfc/793.md
+    - 语言特性:
+      - codelang/lang-feat/index.md
+      - codelang/lang-feat/oo.md
+    - 设计模式:
+      - codelang/patterns/index.md
   
   
-  - 工具:
+  - 工具集:
     - tool/index.md
-    - 命令行:
-      - tool/cmd/index.md
-      - tool/cmd/man.md
-      - tool/cmd/zsh.md
-      - tool/cmd/tmux.md
-      - tool/cmd/vim.md
-      - tool/cmd/git.md
-      - tool/cmd/pacman.md
-      - tool/cmd/iptables.md
-      - tool/cmd/tcpdump.md
-    - 脚本格式:
-      - tool/text/index.md
-      - tool/text/makefile.md
-      - tool/text/markdown.md
-    - tool/wireshark.md
-    - tool/gns3.md
-    - tool/veracrypt.md
-
-  - 算法:
-    - algo/index.md
