@@ -1,287 +1,235 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://cunfus.github.io/code/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/tech-view/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/tech-view/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/algo/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/codelang/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/codelang/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/codelang/c/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/codelang/c/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/codelang/c/1/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/codelang/c/1/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/codelang/c/2/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/codelang/c/2/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/codelang/c/3/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/codelang/c/3/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/codelang/c/4/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/codelang/c/4/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/codelang/c/5/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/codelang/c/5/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/codelang/c/6/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/codelang/c/6/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/codelang/c/omp/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/codelang/c/omp/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/codelang/c/stl/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/codelang/c/stl/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/codelang/c/stl/cpy/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/codelang/c/stl/cpy/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/codelang/c%23/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/codelang/c%23/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/codelang/go/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/codelang/go/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/codelang/go/1/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/codelang/go/1/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/codelang/go/2/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/codelang/go/2/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/codelang/go/3/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/codelang/go/3/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/codelang/go/4/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/codelang/go/4/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/codelang/go/5/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/codelang/go/5/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/codelang/go/6/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/codelang/go/6/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/codelang/go/7/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/codelang/go/7/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/codelang/js/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/codelang/js/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/codelang/lang-feat/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/codelang/lang-feat/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/codelang/lang-feat/oo/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/codelang/lang-feat/oo/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/codelang/patterns/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/codelang/patterns/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/codelang/python/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/codelang/python/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/codelang/python/1/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/codelang/python/1/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/codelang/python/10/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/codelang/python/10/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/codelang/python/2/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/codelang/python/2/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/codelang/python/3/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/codelang/python/3/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/codelang/python/4/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/codelang/python/4/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/codelang/python/5/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/codelang/python/5/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/codelang/python/6/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/codelang/python/6/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/codelang/python/7/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/codelang/python/7/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/codelang/python/8/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/codelang/python/8/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/codelang/python/9/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/codelang/python/9/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/codelang/sicp/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/doit/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/codelang/sicp/sicp-1.1/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/doit/lib/libevent/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/codelang/sicp/sicp-1.2/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/doit/monogame/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/domain/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/domain/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/domain/enc/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/domain/enc/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/domain/enc/1/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/domain/enc/1/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/domain/enc/2/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/domain/enc/2/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/domain/net/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/domain/net/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/domain/neuralnet/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/domain/neuralnet/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/domain/pixelart/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/domain/pixelart/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/domain/rfc/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/domain/rfc/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/tool/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/product/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/tool/git/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/product/plantuml/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/tool/makefile/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/product/plantuml/sequence/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/tool/man/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/sicp/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/tool/markdown/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/sicp/sicp-1.1/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/tool/rsync/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/sicp/sicp-1.2/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/tool/ssh/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/tool/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/tool/tmux/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/tool/gns3/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/tool/veracrypt/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/code/tool/veracrypt/</loc>
-         <lastmod>2024-10-31</lastmod>
-    </url>
-    <url>
-         <loc>https://cunfus.github.io/code/tool/wireshark/</loc>
-         <lastmod>2024-10-31</lastmod>
-    </url>
-    <url>
-         <loc>https://cunfus.github.io/code/tool/cmd/</loc>
-         <lastmod>2024-10-31</lastmod>
-    </url>
-    <url>
-         <loc>https://cunfus.github.io/code/tool/cmd/git/</loc>
-         <lastmod>2024-10-31</lastmod>
-    </url>
-    <url>
-         <loc>https://cunfus.github.io/code/tool/cmd/iptables/</loc>
-         <lastmod>2024-10-31</lastmod>
-    </url>
-    <url>
-         <loc>https://cunfus.github.io/code/tool/cmd/man/</loc>
-         <lastmod>2024-10-31</lastmod>
-    </url>
-    <url>
-         <loc>https://cunfus.github.io/code/tool/cmd/pacman/</loc>
-         <lastmod>2024-10-31</lastmod>
-    </url>
-    <url>
-         <loc>https://cunfus.github.io/code/tool/cmd/tcpdump/</loc>
-         <lastmod>2024-10-31</lastmod>
-    </url>
-    <url>
-         <loc>https://cunfus.github.io/code/tool/cmd/tmux/</loc>
-         <lastmod>2024-10-31</lastmod>
-    </url>
-    <url>
-         <loc>https://cunfus.github.io/code/tool/cmd/vim/</loc>
-         <lastmod>2024-10-31</lastmod>
-    </url>
-    <url>
-         <loc>https://cunfus.github.io/code/tool/cmd/zsh/</loc>
-         <lastmod>2024-10-31</lastmod>
-    </url>
-    <url>
-         <loc>https://cunfus.github.io/code/tool/text/</loc>
-         <lastmod>2024-10-31</lastmod>
-    </url>
-    <url>
-         <loc>https://cunfus.github.io/code/tool/text/makefile/</loc>
-         <lastmod>2024-10-31</lastmod>
-    </url>
-    <url>
-         <loc>https://cunfus.github.io/code/tool/text/markdown/</loc>
-         <lastmod>2024-10-31</lastmod>
+         <loc>https://cunfus.github.io/Coding-Journal/tool/vim/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
 </urlset>
