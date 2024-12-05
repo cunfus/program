@@ -1,7 +1,7 @@
 site_name: 代码札记
 site_description: 札记 
 site_author: cunfus
-site_url: https://cunfus.github.io/Coding-Journal/
+site_url: https://cunfus.github.io/program/
 
 # refer https://mkdoc-material.llango.com/customization/
 #       https://github.com/squidfunk/mkdocs-material/tree/master/material/templates/partials
