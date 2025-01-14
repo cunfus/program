@@ -1,6 +1,8 @@
 # markdown
 
 
+可以参考 [教程](https://markdown.com.cn/)
+
 Markdown 不常用操作
 
 - 脚注：`[^1]` `[^1]: footer`
@@ -11,7 +13,7 @@ Markdown 不常用操作
 
 HTML 技巧
 
-- 换行：`<br></br>`
+- 换行：`<br></br>` 或结尾两个以上空格再回车
 - 多行注释：`<!-- -->`
 - 空格：`&nbsp;`
 - 上标：`y = x<sup>2</sup>`

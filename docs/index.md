@@ -1,9 +1,7 @@
 ---
-comments: true
+comments: false
 ---
 
-# 首页
+# 编码札记
 
-
-
-
+编程原理和编码技巧
